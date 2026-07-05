@@ -85,4 +85,4 @@ M.Sc. Business Analytics
 Queen's University Belfast
 
 LinkedIn:
-https://www.linkedin.com/in/adithya-s-nair
+[https://www.linkedin.com/in/adithya-s-nair](https://www.linkedin.com/in/adithya-s-nair-310520031982love/)
