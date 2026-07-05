@@ -1,0 +1,88 @@
+# 🛒 Tesco Smart Checkout Optimisation
+
+## Business Analysis Case Study
+
+This repository showcases an end-to-end Business Analysis case study exploring how Tesco can improve checkout efficiency using business analysis techniques, process modelling, data-driven decision making, and dashboard design.
+
+---
+
+# 📌 Project Overview
+
+Long customer queues during peak trading hours reduce customer satisfaction, increase basket abandonment, and place additional pressure on store colleagues.
+
+This project analyses the current checkout process and proposes a Smart Checkout Optimisation System using Business Analysis techniques including stakeholder analysis, business requirements gathering, BPMN process modelling, UML diagrams, Agile user stories, dashboard design, and solution architecture.
+
+---
+
+# 🎯 Business Objectives
+
+- Reduce customer waiting times
+- Improve checkout efficiency
+- Optimise staff allocation
+- Improve customer satisfaction
+- Reduce basket abandonment
+- Support data-driven operational decisions
+
+---
+
+# 🛠 Skills Demonstrated
+
+- Business Analysis
+- Stakeholder Analysis
+- Requirements Elicitation
+- Business Requirements Document (BRD)
+- BPMN Process Modelling
+- UML Use Case Modelling
+- Gap Analysis
+- Functional & Non-Functional Requirements
+- Agile User Stories
+- Product Backlog
+- Requirements Traceability Matrix (RTM)
+- Solution Design
+- Dashboard Design
+- Risk Analysis
+- Cost–Benefit Analysis
+
+---
+
+# 🖥 Tools Used
+
+- Microsoft Word
+- SQL
+- Power BI
+- Microsoft Excel
+- Figma
+- GitHub
+
+---
+
+# 📂 Repository Structure
+
+```text
+docs/
+diagrams/
+dashboard/
+presentation/
+images/
+data/
+```
+
+---
+
+# 🚀 Status
+
+🟢 In Progress
+
+This repository is continuously being updated as part of my Business Analysis portfolio.
+
+---
+
+# 👩‍🎓 Author
+
+**Adithya Santhosh Nair**
+
+M.Sc. Business Analytics  
+Queen's University Belfast
+
+LinkedIn:
+https://www.linkedin.com/in/adithya-s-nair
